@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <path fill="#1572B6" d="M127.8 214l47.3-13.1 11.2-125.3h-58.5z"/>
+  <path fill="#33A9DC" d="M128 200.9l38.4-10.6 9-101.7h-47.4z"/>
+  <path fill="#FFFFFF" d="M128 144.6h19.3l1.3 14.9-20.6 6.9z"/>
+  <path fill="#EBEBEB" d="M128 82.5h-19.8l1.3 14.9H128z"/>
+  <path fill="#EBEBEB" d="M128 122.3l-18.6-.5 1.3 14.9 17.3.5z"/>
+  <path fill="#FFFFFF" d="M147.2 97.4l1.3-14.9H128v14.9z"/>
+  <path fill="#FFFFFF" d="M167.2 82.5l-1.3 14.9H128v-14.9z"/>
+  <path fill="#FFFFFF" d="M128 166.2l10.9-3.7-.8-9.2H128z"/>
+  <path fill="#EBEBEB" d="M108.8 153.4l1.3 14.9 17.9 6.1v-21.4l-19.2.4z"/>
+  <path fill="#EBEBEB" d="M128 82.5v14.9h36.4l.7-7.5 1.3-7.4z"/>
+  <path fill="#FFFFFF" d="M161.2 136.7l-2.1 22.1L128 166.9v-21.4l33.1-.8z"/>
+  <path fill="#EBEBEB" d="M127.9 214.2v-13.5l-.3-.1-16.2-4.4-1-11.7h-14.6l2 23.2 30 8.4.1-.1z"/>
+  <path fill="#FFFFFF" d="M128 164.2l20.5-5.7 1.7-19.2-22.2 5.8z"/>
+  <path fill="#1572B6" d="M33.8 5.1h188.4L206 215.8l-77.9 21.6-77.3-21.6L33.8 5.1z"/>
+  <path fill="#EBEBEB" d="M128 186.9V32H47.9l4.8 54.3h75.3V106H58.9l4.7 52.8 64.4 17.9z"/>
+  <path fill="#FFFFFF" d="M128 106V86.3h70.3l-6.7 76.7-63.6 17.8v-22.7l34.9-9.7 2.4-26.7H128z M128 32v23h74.8l4.3-23H128z"/>
+</svg> 
